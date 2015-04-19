@@ -3,6 +3,7 @@
 Made completely from scratch in under 48 hours for the Ludum Dare game development
 competition. May contain programmer art.
 
+![](http://i.imgur.com/4q2lWuL.png)
 
 Forest Hecate is a level based game where you must use collected and cooked
 flowers from objects such as trees to defeat enemies and win levels, along with
