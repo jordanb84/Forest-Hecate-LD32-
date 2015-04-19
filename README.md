@@ -5,7 +5,8 @@ competition. May contain programmer art.
 
 
 Forest Hecate is a level based game where you must use collected and cooked
-flowers from objects such as trees to defeat enemies and win levels. There are
+flowers from objects such as trees to defeat enemies and win levels, along with
+avoiding various objects or entities that may come in your way. There are
 multiple different levels and bosses with different ways of winning, though I was
 not able to complete many levels due to time.
 
