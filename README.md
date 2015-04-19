@@ -1,7 +1,7 @@
 # Forest Hecate LD32
 
 Made completely from scratch in under 48 hours for the Ludum Dare game development
-competition. May contain programmer art.
+competition. May contain programmer art. Description and tools used below image.
 
 ![](http://i.imgur.com/4q2lWuL.png)
 
